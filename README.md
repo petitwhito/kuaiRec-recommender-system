@@ -1,5 +1,10 @@
 # KuaiRec Recommender System Project
 
+[![Python](https://img.shields.io/badge/python-3.10-blue.svg)]()
+[![Machine Learning](https://img.shields.io/badge/field-Recommender%20Systems-brightgreen)]()
+[![Status](https://img.shields.io/badge/status-Completed-success)]()
+[![License](https://img.shields.io/badge/license-MIT-lightgrey)]()
+
 This repository contains a complete recommender system implementation using the KuaiRec dataset. The project implements various recommender system approaches including collaborative filtering, content-based, hybrid, and sequence-aware recommendation methods.
 
 ## Project Structure
